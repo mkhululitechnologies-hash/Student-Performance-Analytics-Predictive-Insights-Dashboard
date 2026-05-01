@@ -87,7 +87,8 @@ The dashboard combines:
 * Dataset
 * Screenshots preview: <img width="1533" height="696" alt="Preview 1" src="https://github.com/user-attachments/assets/d14306df-0c7a-4e8b-b99c-63d42d28ee63" />
 
-<img width="1387" height="690" alt="Preview 2" src="https://github.com/user-attachments/assets/9414aae0-f7f6-4bdb-b0de-1750d875e607" />
+preveiew 
+: <img width="1387" height="690" alt="Preview 2" src="https://github.com/user-attachments/assets/a484db2a-2324-426c-a2a5-d3c1453574fe" />
 
 
 
